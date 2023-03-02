@@ -1,4 +1,5 @@
-Below some Drum Demixing examples extracted using LarsNet (v0)
+Here are some Drums Demixing (DDX) examples extracted using LarsNet (v0)
+
 |           |            |  Mixture (Brooklyn) |        |        |     
 | :-------: | :--------: | :-----------------: | :----: | :----: |
 |           |            |  <audio controls preload="auto" style="width: 100px"><source src="audio/mix/1_funk-groove1_138_beat_4-4_brooklyn.wav" type="audio/mpeg">Your browser does not support the audio element.</audio> |        |         | 
