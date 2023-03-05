@@ -1,5 +1,5 @@
 # larsnet-demo
-LarsNet [anonymized] repository for ISMIR 2023.
+ [anonymized] LarsNet repository for ISMIR 2023.
 
 Code and pretrained models will be made available after the double-blind peer review process. 
 
